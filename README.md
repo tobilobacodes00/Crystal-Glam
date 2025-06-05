@@ -58,8 +58,7 @@ crystal-glam/
 
 ## 📸 Live Demo
 
-https://www.instagram.com/tobilobacodes/
-
+[click here](https://tobilobacodes00.github.io/Crystal-Glam/)
 ## 📝 To Do
 
 - Add more sections (About, Services, Gallery, Testimonials, Contact)
