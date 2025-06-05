@@ -1,7 +1,7 @@
 # Crystal Glam – Makeup Artist Portfolio
 
 Welcome to the **Crystal Glam** portfolio website!  
-This project is a modern, responsive, and visually luxurious web presence for Christabel Egbagha, a professional makeup artist based in Lagos, Nigeria.
+This project is a modern, responsive, and visually luxurious web presence for Christabel Egbagha, a professional makeup artist based in Toronto, Canada.
 
 ---
 
